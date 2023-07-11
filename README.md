@@ -1,4 +1,13 @@
 # My-YouTube-research
+
+In my self-directed data science project, I conducted web scraping to gather essential metrics from 25 prominent data science YouTube channels. The data collected included channel names, subscriber counts, view counts, and video counts. Through analysis, I aimed to find which channels have the highest view counts and then manually chekc to see their video content to see if it is more explanatory or visual/animation heavy which facilitates engagement or understanding of the topics. This investigation aimed to decipher the types of videos that resonate with viewers in the data science domain.
+
+Additionally, as part of the project, I conducted a survey among students from the 2023 cohort of UBC MDS. The survey aimed to gauge the perceived difficulty of various data science courses offered by the university and rank them accordingly. The results provided insights into which courses posed the greatest challenges and enabled me to identify topics/courses for a data science-focused YouTube channel tailored to UBC MDS students.
+
+By combining web scraping techniques, data analysis, and survey insights, this project sheds light on which data science YouTube channels' metrics and provides valuable guidance for aspiring content creators to narrow down topics on which they can make videos targeting UBC MDS students.
+
+Link to survey responses: https://docs.google.com/spreadsheets/d/1M6Q9u31pVJhesPAQiXDXDpOCzV-tm3LTYiOfMrhLU4U/edit?usp=sharing
+
 ![Easy](https://github.com/rishi71095/My-YouTube-research/assets/89761919/23a06bab-1a1d-40e8-8147-b1a9852c300d)
 
 ![Medium](https://github.com/rishi71095/My-YouTube-research/assets/89761919/112ccc5d-24fa-402e-a0e2-efe152b27716)
